@@ -10,11 +10,6 @@ An AI-powered document assistant that lets you **upload any PDF and ask question
 
 ---
 
-## 🚀 Live Demo
-[👉 Click here to try it live](#) *(Deploy on Streamlit Cloud — free)*
-
----
-
 ## 🧠 How It Works
 
 ```
@@ -49,8 +44,8 @@ project1-doc-qa/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/chauhan-03/smart-doc-qa-bot
-cd smart-doc-qa-bot
+git clone https://github.com/chauhan-03/project1-doc-qa
+cd project1-doc-qa
 
 # 2. Install dependencies
 pip install -r requirements.txt
